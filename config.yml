@@ -41,7 +41,6 @@ outputs:
         - JSON
 
 params:
-    baseURL: "/"
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     author: ["okoval"]
     # author: ["Me", "You"] # multiple authors
