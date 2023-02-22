@@ -8,7 +8,7 @@ profile: false
 author: "okoval"
 tags: []
 categories: [Bike]
-date: 2022-06-13
+date: 2023-06-13
 lastmod: 2022-06-13
 featured: false
 draft: false
