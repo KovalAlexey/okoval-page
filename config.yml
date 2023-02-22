@@ -1,5 +1,5 @@
-baseURL: = ""
-relativeURLs: true
+baseURL: = "/"
+# relativeURLs: true
 title: okoval.page
 paginate: 5
 theme: PaperMod
