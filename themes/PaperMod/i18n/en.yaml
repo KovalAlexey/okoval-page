@@ -1,33 +1,33 @@
 - id: prev_page
-  translation: "Prev"
+  translation: "Назад"
 
 - id: next_page
-  translation: "Next"
+  translation: "Далі"
 
 - id: read_time
   translation:
-    one : "1 min"
-    other: "{{ .Count }} min"
+    one : "1 звилина"
+    other: "{{ .Count }} хв"
 
 - id: words
   translation:
-    one : "word"
-    other: "{{ .Count }} words"
+    one : "слово"
+    other: "{{ .Count }} слів"
 
 - id: toc
-  translation: "Table of Contents"
+  translation: "Зміст"
 
 - id: translations
-  translation: "Translations"
+  translation: "Переклади"
 
 - id: home
   translation: "Home"
 
 - id: edit_post
-  translation: "Edit"
+  translation: "Редагувати"
 
 - id: code_copy
-  translation: "copy"
+  translation: "копіювати"
 
 - id: code_copied
-  translation: "copied!"
+  translation: "скопійовано!"
