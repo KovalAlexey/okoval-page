@@ -1,4 +1,4 @@
-baseURL: "https://okoval.page/"
+baseURL: "/"
 # relativeURLs: true
 title: okoval.page
 theme: PaperMod
@@ -73,17 +73,14 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "PaperMod"
+        Title: "okoval.page"
         Content: >
-            Welcome to demo of hugo's theme PaperMod.
-
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-
-            - Do give a 🌟 on Github !
-
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
-
+            Вітаю тебе на моєму сайті. Це персональній блог створений заради спортивного інтересу. Якщо маєш бажання підписуйся на RSS Feed цього сайту, ласкаво прошу до моїх соціальниї мереж. Час від часу тут будуть пцблікуватись різноманітні пости суб'єктивної думки та тематики. Приємного перегляду
     socialIcons:
+        - name: twitter
+          url: "https://twitter.com/KovalAlexey"
+        - name: instagram
+          url: "https://www.instagram.com/okoval_blog/"
         - name: github
           url: "https://github.com/KovalAlexey"
         - name: Rss
