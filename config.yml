@@ -1,4 +1,4 @@
-baseURL: "http://okoval.page/"
+baseURL: "/"
 title: okoval.page
 paginate: 5
 theme: PaperMod
