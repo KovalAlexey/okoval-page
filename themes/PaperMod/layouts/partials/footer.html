@@ -7,8 +7,7 @@
     {{- end }}
     <span>
         Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a>
     </span>
 </footer>
 {{- end }}
@@ -133,3 +132,22 @@
     });
 </script>
 {{- end }}
+
+<script>
+  var remark_config = {
+    host:  'https://remark42.okoval.page',
+    site_id: 'okoval_page',
+    locale: 'ua', 
+    simple_view: false,
+    no_footer: true
+  };
+
+  (function(c) {
+    for(var i = 0; i < c.length; i++){
+      var d = document, s = d.createElement('script');
+      s.src = remark_config.host + '/web/' + c[i] +'.js';
+      s.defer = true;
+      (d.head || d.body).appendChild(s);
+    }
+  })(remark_config.components || ['embed']);
+</script>
