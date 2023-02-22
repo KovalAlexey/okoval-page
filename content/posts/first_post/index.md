@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "My Bike Notes"
+title: "My Bike Notes Draft"
 subtitle: ""
 summary: ""
 profile: false
