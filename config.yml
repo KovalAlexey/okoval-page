@@ -10,7 +10,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-# googleAnalytics: UA-123-45
+googleAnalytics: G-6KBW59GH4L
 
 minify:
     disableXML: true
@@ -48,8 +48,8 @@ params:
     # disableThemeToggle: true
     ShowShareButtons: true
     ShowReadingTime: true
-    # disableSpecial1stPost: true
-    displayFullLangName: true
+    disableSpecial1stPost: false
+    displayFullLangName: false
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
@@ -97,9 +97,9 @@ params:
         icon: icon.png
         iconHeight: 40
 
-    # analytics:
-    #     google:
-    #         SiteVerificationTag: "XYZabc"
+    analytics:
+        google:
+            SiteVerificationTag: "G-6KBW59GH4L"
 
     assets:
         disableHLJS: true
