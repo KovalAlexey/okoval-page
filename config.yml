@@ -75,7 +75,8 @@ params:
     homeInfoParams:
         Title: "okoval.page"
         Content: >
-            Вітаю тебе на моєму сайті. Це персональній блог створений заради спортивного інтересу. Якщо маєш бажання підписуйся на RSS Feed, ласкаво прошу до моїх соціальних мереж. Час від часу тут будуть публікуватись різноманітні пости та думки. Приємного перегляду
+            Вітаю тебе на моєму сайті. Це персональній блог створений заради спортивного інтересу. Якщо маєш бажання підписуйся на RSS Feed, 
+            ласкаво прошу до моїх соціальних мереж. Час від часу тут будуть публікуватись різноманітні пости та думки. Приємного перегляду
     socialIcons:
         - name: twitter
           url: "https://twitter.com/KovalAlexey"
@@ -91,10 +92,10 @@ params:
         Text: "Запропонувати зміни" # edit text
         appendFilePath: false # to append file path to Edit link
 
-    # label:
-    #     text: "Home"
-    #     icon: icon.png
-    #     iconHeight: 35
+    label:
+        text: " "
+        icon: icon.png
+        iconHeight: 40
 
     # analytics:
     #     google:
